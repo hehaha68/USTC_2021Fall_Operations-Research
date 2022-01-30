@@ -2,7 +2,7 @@
 
 ### Ch1 线性规划
 
-**E1.1**	证明凸集表示定理 ：设![](http://latex.codecogs.com/svg.latex?\mathcal{S}=\{\textbf x|A\textbf x=\mathbf b,\textbf x\ge0\})为非空多面集，则有 
+**E1.1**	证明凸集表示定理 ：设![](http://latex.codecogs.com/svg.latex?\mathcal{S}=\{\textbf{x}|A\textbf{x}=\mathbf b,\textbf x\ge0\})为非空多面集，则有 
 
 - 极点集非空且有限 
 
@@ -18,8 +18,7 @@
 
 **E1.2**	给出
 
-![](http://latex.codecogs.com/svg.latex?\begin{array}{c}
-\min -x_{1}+3 x_{2} \\
+![](http://latex.codecogs.com/svg.latex?\begin{array}{c}\min-x_{1}+3x_{2} \\
 \text { s.t. } x_{1}+x_{2} \leq 8 \\
 x_{2} \leq 2 \\
 x_{1}, x_{2} \geq 0
